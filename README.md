@@ -39,9 +39,9 @@ Replace `<your-username>` with your GitHub username, and `lfvision` with your dr
 table below:
 
 ```bash
-git clone https://github.com/<your-username>/learnfast-work.git
+git clone https://github.com/<Saurabh-Rajpurohit07/learnfast-work.git
 cd learnfast-work
-docker compose -f lfvision/docker-compose.yml up
+docker compose -f drill1/docker-compose.yml up
 ```
 
 The first run downloads and builds the environment — several gigabytes, usually 5–15 minutes. After
